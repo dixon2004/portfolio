@@ -151,10 +151,6 @@ p {
     text-decoration: none;
 }
 
-.project-item a:hover {
-    text-decoration: underline;
-}
-
 .learn-more {
     display: inline-block;
     margin-top: 10px;
@@ -177,7 +173,6 @@ p {
     height: auto;
     border-radius: 8px;
 }
-
 
 @media (max-width: 768px) {
     header {
